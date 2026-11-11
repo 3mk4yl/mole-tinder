@@ -67,13 +67,11 @@ Key design decisions:
 
 | Criterion | Score (1–5) | Note |
 |---|---|---|
-| Designed for moles | | |
-| Core flow | | |
-| Craft | | |
-| Originality | | |
-| Code | | |
-| Autonomy | | |
-| **Total** | /30 | |
+| Designed for moles | 4 | They might miss the display |
+| Core flow | 5 | Felt flawless |
+| Craft | 4 | Good for moles, less for human eyes |
+| Originality | 5 | Moles would be happy |
+| **Total** | /20 | 18 |
 
 **Verdict:**
 
