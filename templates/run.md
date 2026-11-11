@@ -54,9 +54,7 @@
 | Core flow | | |
 | Craft | | |
 | Originality | | |
-| Code | | |
-| Autonomy | | |
-| **Total** | /30 | |
+| **Total** | /20 | |
 
 **Verdict:**
 

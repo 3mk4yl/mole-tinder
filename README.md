@@ -14,9 +14,15 @@ sentence is most of what gets rated.
 
 ## Results
 
-| Model | Run | Reasoning | Time | Builds first try | Checks | Rating |
+| Model | Run | Reasoning | Time | Builds first try | Checks | Rating | Demo |
+|---|---|---|---|---|---|---|---|
+| Claude Fable 5.2 | [2026-11-11-01](runs/claude-fable-5-2/2026-11-11-01/run.md) | medium | ~5–6 min | Yes | 9 of 10, 1 partly | **18/20** | [YouTube](https://www.youtube.com/watch?v=PLACEHOLDER) |
+
+Rating per criterion (1–5 each):
+
+| Model | Run | Designed for moles | Core flow | Craft | Originality | Total |
 |---|---|---|---|---|---|---|
-| Claude Fable 5.2 | [2026-11-11-01](runs/claude-fable-5-2/2026-11-11-01/run.md) | medium | ~5–6 min | Yes | 9 of 10, 1 partly | not yet rated |
+| Claude Fable 5.2 | 2026-11-11-01 | 4 | 5 | 4 | 5 | 18/20 |
 
 ## Screenshots
 
@@ -30,7 +36,8 @@ sentence is most of what gets rated.
   <img src="runs/claude-fable-5-2/2026-11-11-01/screenshots/5-empty.png" width="160">
 </p>
 
-Demo with sound: [showcase.mp4](runs/claude-fable-5-2/2026-11-11-01/demo/showcase.mp4)
+Demo with sound: [YouTube](https://www.youtube.com/watch?v=PLACEHOLDER)
+(file: [showcase.mp4](runs/claude-fable-5-2/2026-11-11-01/demo/showcase.mp4))
 
 ## Layout
 

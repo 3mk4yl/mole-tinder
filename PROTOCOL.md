@@ -25,7 +25,7 @@ How to run the benchmark so that runs stay comparable.
 
 ## 3. Demo recording
 
-Recorded after the run; it is not part of what is rated for autonomy.
+Recorded after the run; it is not part of the run itself.
 Save as `demo/showcase.mp4`, with sound where the app makes any.
 
 Shot list, in this order where the app allows it:
@@ -60,7 +60,8 @@ Answer each with yes, no or partly in the run record:
 
 ## 5. Rating
 
-Draft rubric, 1 (poor) to 5 (excellent) each. Adjust it once, then keep it fixed.
+Four criteria, 1 (poor) to 5 (excellent) each, 20 points in total. Keep the
+rubric fixed so that runs stay comparable.
 
 | Criterion | What to look at |
 |---|---|
@@ -68,8 +69,6 @@ Draft rubric, 1 (poor) to 5 (excellent) each. Adjust it once, then keep it fixed
 | Core flow | Is browse, like, pass, match, matches list complete, coherent and free of dead ends? |
 | Craft | Layout, animation, empty states, edge cases, accessibility, overall polish. |
 | Originality | Ideas and writing that are specific and surprising rather than generic. |
-| Code | Structure, readability, sensible size, no leftovers. |
-| Autonomy | Followed the prompt without help, verified its own work, reported honestly. |
 
 Add a one-paragraph verdict. One run is one sample: where it matters, run a
 model two or three times and keep every run.

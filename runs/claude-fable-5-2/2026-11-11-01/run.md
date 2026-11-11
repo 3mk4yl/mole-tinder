@@ -73,7 +73,11 @@ Key design decisions:
 | Originality | 5 | Moles would be happy |
 | **Total** | 18/20 | Holy moley |
 
-**Verdict:**
+**Verdict:** 18 of 20. The core flow worked without a flaw and the mole world
+is original and consistent, from scent-based profiles to thumping down a
+tunnel. The two lost points share one cause: the app still leans on the screen.
+A mole could not use it by sound and touch alone, and what is on the screen is
+built for weak eyes, so it looks blunt to human ones.
 
 ## Notes
 
