@@ -71,7 +71,7 @@ Key design decisions:
 | Core flow | 5 | Felt flawless |
 | Craft | 4 | Good for moles, less for human eyes |
 | Originality | 5 | Moles would be happy |
-| **Total** | /20 | 18 |
+| **Total** | 18/20 | Holy moley |
 
 **Verdict:**
 
