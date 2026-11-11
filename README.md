@@ -16,7 +16,7 @@ sentence is most of what gets rated.
 
 | Model | Run | Reasoning | Time | Builds first try | Checks | Rating | Demo |
 |---|---|---|---|---|---|---|---|
-| Claude Fable 5.2 | [2026-11-11-01](runs/claude-fable-5-2/2026-11-11-01/run.md) | medium | ~5–6 min | Yes | 9 of 10, 1 partly | **18/20** | [YouTube](https://www.youtube.com/watch?v=PLACEHOLDER) |
+| Claude Fable 5.2 | [2026-11-11-01](runs/claude-fable-5-2/2026-11-11-01/run.md) | medium | ~5–6 min | Yes | 9 of 10, 1 partly | **18/20** | [YouTube](https://youtu.be/rANZJByCgAA) |
 
 Rating per criterion (1–5 each):
 
